@@ -1,0 +1,26 @@
+.box{
+    width: 500px; 
+    height: 500px; 
+    background-color: #f8ad3d;
+}
+.filha{
+    width: 50%; 
+    height: 50%; 
+    background-color: #69f83d;
+}
+.neta{
+    color: #fff;
+    background-color: #fc4646;
+    font-size: 25px;
+    font-weight: 600
+}
+.box2{
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(173, 216, 230); 
+}
+.filha2{
+    width: 75vh;
+    height: 50%;
+    background-color: rgb(236, 20, 20);
+}
